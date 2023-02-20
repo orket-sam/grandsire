@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604809497435",
+    "project_id": "grandsire",
+    "storage_bucket": "grandsire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604809497435:android:c818900e10c54fba8a687e",
+        "android_client_info": {
+          "package_name": "com.grandsire.grandsire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604809497435-cdulr2m3vmoe08fkvh4gav898ame5tqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Mx4f7l8rsf6MMWl_rMrbvFd4xUqgBQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604809497435-cdulr2m3vmoe08fkvh4gav898ame5tqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
