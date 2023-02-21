@@ -45,3 +45,7 @@ app.*.map.json
 
 # Google api keys
 /lib/firebase_options.dart
+
+privacy
+sam.txt
+/lib/sam.dartheyya
